@@ -59,7 +59,9 @@ stats (for SLA reporting, see below).
 
 ### Low level consumer tests
 
-* [Gauge](https://getgauge.io/) scripts to execute in test environment, [AcceptanceTests](AcceptanceTests/AcceptanceTests.csproj)
+* [Gauge](https://getgauge.io/) scripts to execute in test environment,
+  both [AcceptanceTestsCSharp](AcceptanceTestsCSharp/AcceptanceTests.csproj) and
+  [AcceptanceTestsJava](AcceptanceTestsJava/CloudGolf.iml)
 * Data providers included within test environment, driven by above scripts.
 
 ### Provider interfaces
