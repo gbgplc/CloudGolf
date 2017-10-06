@@ -147,7 +147,7 @@ public class QuerySteps extends Handler {
             FileWriter w = null;
             try {
                 new File(logpath()).mkdirs();
-                w = new FileWriter(logpath(), true);
+                w = new FileWriter(logfile(), true);
                 w.write(record.getMessage() + "\n");
                 w.close();
             } catch (IOException ex) {
