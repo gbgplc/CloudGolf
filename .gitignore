@@ -210,8 +210,3 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
-/imql_simple/imql_simple.VC.db
-/gbnrti
-/CloudGolf/AcceptanceTests/.gauge
-/CloudGolf/AcceptanceTestsCSharp/.gauge
-/CloudGolf/AcceptanceTestsJava/.idea
